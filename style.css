@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
